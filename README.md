@@ -1,4 +1,4 @@
-# acronis-task
+# Simple Vue.js project
 
 ## Project setup
 ```
